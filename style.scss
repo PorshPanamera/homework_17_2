@@ -1,0 +1,6 @@
+#grid_container {
+  display: grid;
+  grid-template-columns: repeat(5, 100px);
+  margin-top: 1%;
+  gap: 10px;
+}
